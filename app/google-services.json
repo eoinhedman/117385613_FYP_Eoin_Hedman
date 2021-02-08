@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "571596366303",
+    "firebase_url": "https://fypeoin-c6152.firebaseio.com",
+    "project_id": "fypeoin-c6152",
+    "storage_bucket": "fypeoin-c6152.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571596366303:android:03da9c67b64eecd7ae246a",
+        "android_client_info": {
+          "package_name": "com.example.a117385613_fyp_eoin_hedman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571596366303-57julbru9ies2rivpj4p1fqaug32gh0i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.a117385613_fyp_eoin_hedman",
+            "certificate_hash": "94f38ddeb0d031ae91a95912510f757c0e90fee5"
+          }
+        },
+        {
+          "client_id": "571596366303-dg99de89iqra4j2eig1q465n8mtkrp7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDX0XPdR1hyN4JrAUbh1rcrfBI8d5lkkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571596366303-dg99de89iqra4j2eig1q465n8mtkrp7i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
